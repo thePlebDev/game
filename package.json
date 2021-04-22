@@ -1,0 +1,25 @@
+{
+  "name": "Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thePlebDev/game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thePlebDev/game/issues"
+  },
+  "homepage": "https://github.com/thePlebDev/game#readme",
+  "devDependencies": {
+    "webpack": "^5.35.0",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
